@@ -1,0 +1,6 @@
+[submodule "Front"]
+	path = Front
+	url = https://github.com/rosig/MERN-Users-Front
+[submodule "Back"]
+	path = Back
+	url = https://github.com/rosig/MERN-Users-Back
